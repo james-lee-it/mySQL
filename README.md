@@ -2,6 +2,11 @@
 This is a cheatsheet for mySQL command on Mac Terminal Unix
 
 ## commands
-$ `create table <table name>`
+$ `show databases;` shows a list of databases.
 
-$ `show databases;`
+$ `create database <database name>;`
+
+$ `use <database name>;` you are now in the database.
+
+$ `show tables`
+
